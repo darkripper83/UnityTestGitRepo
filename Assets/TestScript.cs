@@ -12,4 +12,6 @@ public class TestScript : MonoBehaviour {
 	void Update () {
 	
 	}
+	
+	void Test() {}
 }
